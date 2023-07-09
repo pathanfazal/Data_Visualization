@@ -1,0 +1,559 @@
+﻿location,complaint,level,hashtags
+KarveNagar,cleanliness,negative,"#Garbage,#sewage"
+KarveNagar,water,negative,#leakage
+KarveNagar,cleanliness,negative,"#Garbage,#sewage"
+KarveNagar,footpath,negative,#footpath
+KarveNagar,footpath,negative,#footpath
+KarveNagar,cleanliness,positive,"#Garbage,#sewage"
+KarveNagar,road,negative,"#blockage,#pothholes"
+KarveNagar,footpath,negative,#footpath
+KarveNagar,cleanliness,negative,"#Garbage,#sewage"
+KarveNagar,road,negative,"#blockage,#pothholes"
+KarveNagar,footpath,negative,#footpath
+KarveNagar,water,negative,#leakage
+KarveNagar,road,negative,"#blockage,#pothholes"
+KarveNagar,water,nagetive,#leakage
+KarveNagar,cleanliness,positive,"#Garbage,#sewage"
+KarveNagar,footpath,negative,#footpath
+KarveNagar,water,positive,#leakage
+KarveNagar,road,negative,"#blockage,#pothholes"
+KarveNagar,water,negative,#leakage
+KarveNagar,cleanliness,positive,"#Garbage,#sewage"
+KarveNagar,footpath,negative,#footpath
+KarveNagar,road,negative,"#blockage,#potholes"
+KarveNagar,cleanliness,negative,"#Garbage,#sewage"
+KarveNagar,water,negative,#leakage
+KarveNagar,footpath,positive,#footpath
+KarveNagar,road,negative,"#blockage,#potholes"
+KarveNagar,footpath,positive,#footpath
+KarveNagar,cleanliness,positive,"#Garbage,#sewage"
+KarveNagar,footpath,negative,#footpath
+KarveNagar,road,negative,"#blockage,#potholes"
+Ghole Road,water,negative,#leakage
+KarveNagar,water,negative,#leakage
+KarveNagar,cleanliness,negative,"#Garbage,#sewage"
+KarveNagar,footpath,positive,#footpath
+KarveNagar,water,positive,#leakage
+KarveNagar,cleanliness,positive,"#Garbage,#sewage"
+KarveNagar,road,negative,"#blockage,#potholes"
+KarveNagar,water,negative,#leakage
+KarveNagar,footpath,positive,#footpath
+Ghole Road,water,negative,#leakage
+KarveNagar,water,negative,#leakage
+Ghole Road,water,negative,#leakage
+KarveNagar,road,negative,"#blockage,#potholes"
+KarveNagar,water,positive,#leakage
+Ghole Road,water,positive,#leakage
+Ghole Road,road,positive,#potholes
+Ghole Road,road,negative,#potholes
+KarveNagar,footpath,nagative,#footpath
+KarveNagar,road,negative,"#blockage,#pothholes"
+Ghole Road,water,positive,#leakage
+KarveNagar,road,positive,"#blockage,#potholes"
+Ghole Road,water,positive,#leakage
+KarveNagar,footpath,positive,#footpath
+Ghole Road,water,negative,#leakage
+Ghole Road,water,positive,#leakage
+KarveNagar,road,negative,"#blockage,#potholes"
+Ghole Road,road,positive,#potholes
+KarveNagar,road,positive,"#blockage,#potholes"
+Ghole Road,road,positive,#potholes
+Ghole Road,water,positive,#leakage
+KarveNagar,road,negative,"#blockage,#potholes"
+Ghole Road,water,negative,#leakage
+Ghole Road,road,positive,#potholes
+Ghole Road,road,negative,#potholes
+Ghole Road,water,negative,#leakage
+KarveNagar,road,negative,"#blockage,#potholes"
+KarveNagar,water,negative,#leakage
+Ghole Road,water,negative,#leakage
+KarveNagar,footpath,negative,"#blockage,#potholes"
+KarveNagar,road,negative,#leakage
+Ghole Road,water,positive,#leakage
+Ghole Road,water,negative,#leakage
+Ghole Road,water,negative,#leakage
+Ghole Road,water,positive,#leakage
+Ghole Road,water,negative,#leakage
+Ghole Road,water,negative,#leakage
+Ghole Road,water,positive,#leakage
+Ghole Road,water,negative,#leakage
+Ghole Road,water,positive,#leakage
+Ghole Road,footpath,positive,#footpath
+Ghole Road,footpath,negative,#footpath
+Ghole Road,footpath,positive,#footpath
+Ghole Road,footpath,positive,#footpath
+Ghole Road,footpath,negative,#footpath
+Ghole Road,footpath,positive,#footpath
+Ghole Road,footpath,negative,#footpath
+Ghole Road,footpath,positive,#footpath
+Ghole Road,footpath,negative,#footpath
+Ghole Road,footpath,positive,#footpath
+Ghole Road,footpath,positive,#footpath
+Ghole Road,footpath,negative,#footpath
+Ghole Road,footpath,negative,#footpath
+Ghole Road,footpath,positive,#footpath
+Ghole Road,footpath,negative,#footpath
+KarveNagar,water,negative,#leakage
+KarveNagar,cleanliness,negative,"#Garbage,#sewage"
+KarveNagar,footpath,positive,#footpath
+KarveNagar,water,positive,#leakage
+KarveNagar,cleanliness,positive,"#Garbage,#sewage"
+Ghole Road,road,negative,#potholes
+Ghole Road,road,negative,#potholes
+Ghole Road,cleanliness,negative,#garbage
+Ghole Road,footpath,positive,#footpath
+Ghole Road,footpath,positive,#footpath
+Ghole Road,footpath,negative,#footpath
+Ghole Road,footpath,negative,#footpath
+Ghole Road,footpath,positive,#footpath
+Ghole Road,footpath,negative,#footpath
+Ghole Road,road,negative,#potholes
+Ghole Road,road,negative,#potholes
+Ghole Road,cleanliness,negative,#garbage
+Ghole Road,cleanliness,negative,#garbage
+Ghole Road,cleanliness,positive,#garbage
+Ghole Road,cleanliness,negative,#garbage
+Ghole Road,cleanliness,positive,#garbage
+Ghole Road,cleanliness,positive,#garbage
+Ghole Road,cleanliness,negative,#garbage
+Ghole Road,cleanliness,positive,#garbage
+Ghole Road,cleanliness,negative,#garbage
+Ghole Road,cleanliness,negative,#garbage
+Ghole Road,cleanliness,positive,#garbage
+Kasaba,cleanliness,negative,#garbage
+Kasaba,water,negative,#leakage
+Kasaba,road,negative,#potholes
+Kasaba,footpath,negative,#footpath
+Kasaba,cleanliness,negative,#garbage
+Kasaba,water,positive,#leakage
+Kasaba,road,negative,#potholes
+Kasaba,footpath,negative,#footpath
+Kasaba,cleanliness,positive,#garbage
+Kasaba,water,negative,#leakage
+Kasaba,road,positive,#potholes
+Kasaba,footpath,negative,#footpath
+Kasaba,cleanliness,negative,#garbage
+Kasaba,water,positive,#leakage
+Kasaba,road,negative,#potholes
+Kasaba,footpath,positive,#footpath
+Kasaba,cleanliness,negative,#garbage
+Kasaba,water,positive,#leakage
+Kasaba,road,negative,#potholes
+Kasaba,footpath,positive,#footpath
+Kasaba,cleanliness,negative,#garbage
+Kasaba,water,positive,#leakage
+Kasaba,road,positive,#potholes
+Kasaba,footpath,negative,#footpath
+Kasaba,cleanliness,negative,#garbage
+Kasaba,water,positive,#leakage
+Kasaba,road,negative,#potholes
+Kasaba,footpath,negative,#footpath
+Kasaba,cleanliness,negative,#garbage
+Kasaba,water,positive,#leakage
+Kasaba,road,negative,#potholes
+Kasaba,footpath,negative,#footpath
+Kasaba,road,positive,#potholes
+Kasaba,cleanliness,negative,#garbage
+Kasaba,water,positive,#leakage
+Kasaba,road,positive,#potholes
+Kasaba,cleanliness,negative,#garbage
+Kasaba,water,positive,#leakage
+Kasaba,road,negative,#potholes
+Kasaba,cleanliness,negative,#garbage
+Kasaba,water,positive,#leakage
+Kasaba,road,positive,#potholes
+Kasaba,footpath,negative,#footpath
+Kasaba,cleanliness,negative,#garbage
+Kasaba,water,positive,#leakage
+Kasaba,road,negative,#potholes
+Kasaba,footpath,negative,#footpath
+Kasaba,cleanliness,negative,#garbage
+Kasaba,water,positive,#leakage
+Kasaba,road,positive,#potholes
+Kasaba,footpath,negative,#footpath
+Wanowrie Ramtekdi,road,negative,#potholes
+Wanowrie Ramtekdi,footpath,positive,#footpath
+Wanowrie Ramtekdi,water,positive,#potholes
+Wanowrie Ramtekdi,footpath,negative,#footpath
+Wanowrie Ramtekdi,water,negative,#potholes
+Wanowrie Ramtekdi,road,positive,#potholes
+Wanowrie Ramtekdi,water,negative,#potholes
+Wanowrie Ramtekdi,road,positive,#potholes
+Wanowrie Ramtekdi,road,negative,#potholes
+Wanowrie Ramtekdi,footpath,positive,#footpath
+Wanowrie Ramtekdi,water,positive,#potholes
+Wanowrie Ramtekdi,cleanliness,negative,#garbage
+Wanowrie Ramtekdi,water,negative,#potholes
+Wanowrie Ramtekdi,water,positive,#potholes
+Wanowrie Ramtekdi,footpath,negative,#footpath
+Wanowrie Ramtekdi,water,negative,#potholes
+Wanowrie Ramtekdi,road,negative,#potholes
+Wanowrie Ramtekdi,road,negative,#potholes
+Wanowrie Ramtekdi,cleanliness,positive,#garbage
+Wanowrie Ramtekdi,road,negative,#potholes
+Wanowrie Ramtekdi,water,negative,#potholes
+Wanowrie Ramtekdi,footpath,positive,#footpath
+Wanowrie Ramtekdi,road,negative,#potholes
+Wanowrie Ramtekdi,road,negative,#potholes
+Wanowrie Ramtekdi,cleanliness,negative,#garbage
+Wanowrie Ramtekdi,water,positive,#potholes
+Wanowrie Ramtekdi,cleanliness,negative,#garbage
+Wanowrie Ramtekdi,road,negative,#potholes
+Wanowrie Ramtekdi,road,negative,#potholes
+Wanowrie Ramtekdi,water,negative,#potholes
+Wanowrie Ramtekdi,cleanliness,positive,#garbage
+Wanowrie Ramtekdi,footpath,negative,#footpath
+Wanowrie Ramtekdi,cleanliness,negative,#garbage
+Wanowrie Ramtekdi,road,negative,#potholes
+Wanowrie Ramtekdi,cleanliness,negative,#garbage
+Wanowrie Ramtekdi,cleanliness,negative,#garbage
+Wanowrie Ramtekdi,cleanliness,positive,#garbage
+Wanowrie Ramtekdi,footpath,negative,#footpath
+Wanowrie Ramtekdi,footpath,positive,#footpath
+Wanowrie Ramtekdi,road,negative,#potholes
+Wanowrie Ramtekdi,road,negative,#potholes
+Wanowrie Ramtekdi,cleanliness,positive,#garbage
+Wanowrie Ramtekdi,water,negative,#potholes
+Wanowrie Ramtekdi,cleanliness,positive,#garbage
+Wanowrie Ramtekdi,road,negative,#potholes
+Wanowrie Ramtekdi,road,positive,#potholes
+Wanowrie Ramtekdi,water,negative,#potholes
+Wanowrie Ramtekdi,cleanliness,positive,#garbage
+Wanowrie Ramtekdi,footpath,negative,#footpath
+Wanowrie Ramtekdi,cleanliness,negative,#garbage
+Wanowrie Ramtekdi,road,positive,#potholes
+Wanowrie Ramtekdi,cleanliness,negative,#garbage
+Wanowrie Ramtekdi,cleanliness,positive,#garbage
+Wanowrie Ramtekdi,cleanliness,negative,#garbage
+Wanowrie Ramtekdi,footpath,positive,#footpath
+Wanowrie Ramtekdi,footpath,negative,#footpath
+Dhankawadi,water,positive,#leakage
+Dhankawadi,road,negative,#potholes
+Dhankawadi,footpath,negative,#footpath
+Dhankawadi,cleanliness,negative,#garbage
+Dhankawadi,water,positive,#leakage
+Dhankawadi,road,negative,#potholes
+Dhankawadi,footpath,negative,#footpath
+Dhankawadi,road,positive,#potholes
+Dhankawadi,cleanliness,negative,#garbage
+Dhankawadi,water,positive,#leakage
+Dhankawadi,road,positive,#potholes
+Dhankawadi,cleanliness,negative,#garbage
+Dhankawadi,water,positive,#leakage
+Dhankawadi,road,negative,#potholes
+Dhankawadi,cleanliness,negative,#garbage
+Dhankawadi,water,positive,#leakage
+Dhankawadi,road,positive,#potholes
+Dhankawadi,footpath,negative,#footpath
+Dhankawadi,cleanliness,negative,#garbage
+Dhankawadi,water,positive,#leakage
+Dhankawadi,road,negative,#potholes
+Dhankawadi,footpath,negative,#footpath
+Dhankawadi,cleanliness,negative,#garbage
+Dhankawadi,water,positive,#leakage
+Dhankawadi,road,positive,#potholes
+Dhankawadi,footpath,negative,#footpath
+Dhankawadi,road,negative,#potholes
+Dhankawadi,footpath,positive,#footpath
+Dhankawadi,water,positive,#potholes
+Dhankawadi,footpath,negative,#footpath
+Dhankawadi,water,negative,#potholes
+Dhankawadi,road,positive,#potholes
+Dhankawadi,water,negative,#potholes
+Dhankawadi,cleanliness,negative,"#Garbage,#sewage"
+Dhankawadi,water,negative,#leakage
+Dhankawadi,cleanliness,negative,"#Garbage,#sewage"
+Dhankawadi,footpath,negative,#footpath
+Dhankawadi,footpath,negative,#footpath
+Dhankawadi,cleanliness,positive,"#Garbage,#sewage"
+Dhankawadi,road,negative,"#blockage,#pothholes"
+Dhankawadi,footpath,negative,#footpath
+Dhankawadi,cleanliness,negative,"#Garbage,#sewage"
+Dhankawadi,road,negative,"#blockage,#pothholes"
+Dhankawadi,water,negative,#potholes
+Dhankawadi,water,positive,#potholes
+Dhankawadi,footpath,negative,#footpath
+Dhankawadi,water,negative,#potholes
+Dhankawadi,road,negative,#potholes
+Dhankawadi,road,negative,#potholes
+Dhankawadi,road,positive,#potholes
+Dhankawadi,footpath,negative,#footpath
+Dhankawadi,cleanliness,negative,#garbage
+Dhankawadi,water,positive,#leakage
+Dhankawadi,road,negative,#potholes
+Dhankawadi,footpath,positive,#footpath
+Sinhgad Road,cleanliness ,negative,"#Garbage,#sewage"
+Sinhgad Road,water,negative,#leakage
+Sinhgad Road,cleanliness ,negative,"#Garbage,#sewage"
+Sinhgad Road,footpath,negative,#footpath
+Sinhgad Road,footpath,positive,#footpath
+Sinhgad Road,cleanliness ,positive,"#Garbage,#sewage"
+Sinhgad Road,road,negative,"#blockage,#pothholes"
+Sinhgad Road,footpath,positive,#footpath
+Sinhgad Road,cleanliness ,negative,"#Garbage,#sewage"
+Sinhgad Road,road,negative,"#blockage,#pothholes"
+Sinhgad Road,water,negative,#leakage
+Sinhgad Road,cleanliness ,negative,"#Garbage,#sewage"
+Sinhgad Road,water,positive,#leakage
+Sinhgad Road,cleanliness ,negative,"#Garbage,#sewage"
+Sinhgad Road,footpath,positive,#footpath
+Sinhgad Road,footpath,negative,#footpath
+Sinhgad Road,cleanliness ,positive,"#Garbage,#sewage"
+Sinhgad Road,road,positive,"#blockage,#pothholes"
+Sinhgad Road,footpath,positive,#footpath
+Sinhgad Road,cleanliness ,negative,"#Garbage,#sewage"
+Sinhgad Road,road,positive,"#blockage,#pothholes"
+Sinhgad Road,water,negative,#leakage
+Sinhgad Road,cleanliness ,positive,"#Garbage,#sewage"
+Sinhgad Road,water,negative,#leakage
+Sinhgad Road,cleanliness ,positive,"#Garbage,#sewage"
+Sinhgad Road,footpath,negative,#footpath
+Sinhgad Road,footpath,positive,#footpath
+Sinhgad Road,cleanliness ,positive,"#Garbage,#sewage"
+Sinhgad Road,road,negative,"#blockage,#pothholes"
+Sinhgad Road,footpath,positive,#footpath
+Sinhgad Road,cleanliness ,negative,"#Garbage,#sewage"
+Sinhgad Road,road,positive,"#blockage,#pothholes"
+Sinhgad Road,water,negative,#leakage
+Sinhgad Road,cleanliness ,positive,"#Garbage,#sewage"
+Sinhgad Road,water,positive,#leakage
+Sinhgad Road,cleanliness ,negative,"#Garbage,#sewage"
+Sinhgad Road,footpath,negative,#footpath
+Sinhgad Road,footpath,positive,#footpath
+Sinhgad Road,cleanliness ,negative,"#Garbage,#sewage"
+Sinhgad Road,road,positive,"#blockage,#pothholes"
+Sinhgad Road,footpath,negative,#footpath
+Sinhgad Road,cleanliness ,positive,"#Garbage,#sewage"
+Sinhgad Road,road,positive,"#blockage,#pothholes"
+Sinhgad Road,water,positive,#leakage
+Sinhgad Road,cleanliness ,positive,"#Garbage,#sewage"
+Sinhgad Road,water,negative,#leakage
+Sinhgad Road,cleanliness ,negative,"#Garbage,#sewage"
+Sinhgad Road,footpath,negative,#footpath
+Sinhgad Road,footpath,negative,#footpath
+Sinhgad Road,cleanliness ,positive,"#Garbage,#sewage"
+Sinhgad Road,road,positive,"#blockage,#pothholes"
+Sinhgad Road,footpath,positive,#footpath
+Sinhgad Road,cleanliness ,positive,"#Garbage,#sewage"
+Sinhgad Road,road,negative,"#blockage,#pothholes"
+Sinhgad Road,water,negative,#leakage
+Hadapsar,cleanliness ,positive,"#Garbage,#sewage"
+Hadapsar,water,positive,#leakage
+Hadapsar,cleanliness ,negative,"#Garbage,#sewage"
+Hadapsar,footpath,positive,#footpath
+Hadapsar,footpath,negative,#footpath
+Hadapsar,cleanliness ,positive,"#Garbage,#sewage"
+Hadapsar,road,negative,"#blockage,#pothholes"
+Hadapsar,footpath,positive,#footpath
+Hadapsar,cleanliness ,negative,"#Garbage,#sewage"
+Hadapsar,road,positive,"#blockage,#pothholes"
+Hadapsar,water,positive,#leakage
+Hadapsar,cleanliness ,positive,"#Garbage,#sewage"
+Hadapsar,water,positive,#leakage
+Hadapsar,cleanliness ,negative,"#Garbage,#sewage"
+Hadapsar,footpath,positive,#footpath
+Hadapsar,footpath,positive,#footpath
+Hadapsar,cleanliness ,negative,"#Garbage,#sewage"
+Hadapsar,road,negative,"#blockage,#pothholes"
+Hadapsar,footpath,positive,#footpath
+Hadapsar,cleanliness ,negative,"#Garbage,#sewage"
+Hadapsar,road,positive,"#blockage,#pothholes"
+Hadapsar,water,positive,#leakage
+Hadapsar,cleanliness ,positive,"#Garbage,#sewage"
+Hadapsar,water,positive,#leakage
+Hadapsar,cleanliness ,negative,"#Garbage,#sewage"
+Hadapsar,footpath,positive,#footpath
+Hadapsar,footpath,positive,#footpath
+Hadapsar,cleanliness ,negative,"#Garbage,#sewage"
+Hadapsar,road,negative,"#blockage,#pothholes"
+Hadapsar,footpath,positive,#footpath
+Hadapsar,cleanliness ,positive,"#Garbage,#sewage"
+Hadapsar,road,negative,"#blockage,#pothholes"
+Hadapsar,water,positive,#leakage
+Hadapsar,cleanliness ,negative,"#Garbage,#sewage"
+Hadapsar,water,positive,#leakage
+Hadapsar,cleanliness ,negative,"#Garbage,#sewage"
+Hadapsar,footpath,positive,#footpath
+Hadapsar,footpath,negative,#footpath
+Hadapsar,cleanliness ,positive,"#Garbage,#sewage"
+Hadapsar,road,negative,"#blockage,#pothholes"
+Hadapsar,footpath,positive,#footpath
+Hadapsar,cleanliness ,positive,"#Garbage,#sewage"
+Hadapsar,road,positive,"#blockage,#pothholes"
+Hadapsar,water,positive,#leakage
+Hadapsar,cleanliness ,negative,"#Garbage,#sewage"
+Hadapsar,water,negative,#leakage
+Hadapsar,cleanliness ,negative,"#Garbage,#sewage"
+Hadapsar,footpath,negative,#footpath
+Hadapsar,footpath,positive,#footpath
+Hadapsar,cleanliness ,negative,"#Garbage,#sewage"
+Hadapsar,road,positive,"#blockage,#pothholes"
+Hadapsar,footpath,negative,#footpath
+Hadapsar,cleanliness ,positive,"#Garbage,#sewage"
+Hadapsar,road,negative,"#blockage,#pothholes"
+Hadapsar,water,positive,#leakage
+Bhavani Peth,cleanliness ,positive,"#Garbage,#sewage"
+Bhavani Peth,water,positive,#leakage
+Bhavani Peth,cleanliness ,negative,"#Garbage,#sewage"
+Bhavani Peth,footpath,negative,#footpath
+Bhavani Peth,footpath,positive,#footpath
+Bhavani Peth,cleanliness ,positive,"#Garbage,#sewage"
+Bhavani Peth,road,negative,"#blockage,#pothholes"
+Bhavani Peth,footpath,positive,#footpath
+Bhavani Peth,cleanliness ,positive,"#Garbage,#sewage"
+Bhavani Peth,road,negative,"#blockage,#pothholes"
+Bhavani Peth,water,positive,#leakage
+Bhavani Peth,cleanliness ,negative,"#Garbage,#sewage"
+Bhavani Peth,water,positive,#leakage
+Bhavani Peth,cleanliness ,negative,"#Garbage,#sewage"
+Bhavani Peth,footpath,negative,#footpath
+Bhavani Peth,footpath,positive,#footpath
+Bhavani Peth,cleanliness ,positive,"#Garbage,#sewage"
+Bhavani Peth,road,negative,"#blockage,#pothholes"
+Bhavani Peth,footpath,negative,#footpath
+Bhavani Peth,cleanliness ,negative,"#Garbage,#sewage"
+Bhavani Peth,road,positive,"#blockage,#pothholes"
+Bhavani Peth,water,positive,#leakage
+Bhavani Peth,cleanliness ,positive,"#Garbage,#sewage"
+Bhavani Peth,water,positive,#leakage
+Bhavani Peth,cleanliness ,negative,"#Garbage,#sewage"
+Bhavani Peth,footpath,negative,#footpath
+Bhavani Peth,footpath,negative,#footpath
+Bhavani Peth,cleanliness ,negative,"#Garbage,#sewage"
+Bhavani Peth,road,positive,"#blockage,#pothholes"
+Bhavani Peth,footpath,negative,#footpath
+Bhavani Peth,cleanliness ,positive,"#Garbage,#sewage"
+Bhavani Peth,road,positive,"#blockage,#pothholes"
+Bhavani Peth,water,negative,#leakage
+Bhavani Peth,cleanliness ,negative,"#Garbage,#sewage"
+Bhavani Peth,water,positive,#leakage
+Bhavani Peth,cleanliness ,negative,"#Garbage,#sewage"
+Bhavani Peth,footpath,positive,#footpath
+Bhavani Peth,footpath,negative,#footpath
+Bhavani Peth,cleanliness ,positive,"#Garbage,#sewage"
+Bhavani Peth,road,positive,"#blockage,#pothholes"
+Bhavani Peth,footpath,negative,#footpath
+Bhavani Peth,cleanliness ,negative,"#Garbage,#sewage"
+Bhavani Peth,road,negative,"#blockage,#pothholes"
+Bhavani Peth,water,positive,#leakage
+Bhavani Peth,cleanliness ,positive,"#Garbage,#sewage"
+Bhavani Peth,water,negative,#leakage
+Bhavani Peth,cleanliness ,positive,"#Garbage,#sewage"
+Bhavani Peth,footpath,negative,#footpath
+Bhavani Peth,footpath,positive,#footpath
+Bhavani Peth,cleanliness ,negative,"#Garbage,#sewage"
+Bhavani Peth,road,positive,"#blockage,#pothholes"
+Bhavani Peth,footpath,positive,#footpath
+Bhavani Peth,cleanliness ,positive,"#Garbage,#sewage"
+Bhavani Peth,road,positive,"#blockage,#pothholes"
+Bhavani Peth,water,positive,#leakage
+Kondhwa,cleanliness ,positive,"#Garbage,#sewage"
+Kondhwa,water,negative,#leakage
+Kondhwa,cleanliness ,positive,"#Garbage,#sewage"
+Kondhwa,footpath,negative,#footpath
+Kondhwa,footpath,positive,#footpath
+Kondhwa,cleanliness ,negative,"#Garbage,#sewage"
+Kondhwa,road,negative,"#blockage,#pothholes"
+Kondhwa,footpath,negative,#footpath
+Kondhwa,cleanliness ,negative,"#Garbage,#sewage"
+Kondhwa,road,negative,"#blockage,#pothholes"
+Kondhwa,water,negative,#leakage
+Kondhwa,cleanliness ,negative,"#Garbage,#sewage"
+Kondhwa,water,negative,#leakage
+Kondhwa,cleanliness ,positive,"#Garbage,#sewage"
+Kondhwa,footpath,negative,#footpath
+Kondhwa,footpath,positive,#footpath
+Kondhwa,cleanliness ,negative,"#Garbage,#sewage"
+Kondhwa,road,positive,"#blockage,#pothholes"
+Kondhwa,footpath,negative,#footpath
+Kondhwa,cleanliness ,negative,"#Garbage,#sewage"
+Kondhwa,road,negative,"#blockage,#pothholes"
+Kondhwa,water,negative,#leakage
+Kondhwa,cleanliness ,negative,"#Garbage,#sewage"
+Kondhwa,water,negative,#leakage
+Kondhwa,cleanliness ,negative,"#Garbage,#sewage"
+Kondhwa,footpath,negative,#footpath
+Kondhwa,footpath,negative,#footpath
+Kondhwa,cleanliness ,positive,"#Garbage,#sewage"
+Kondhwa,road,positive,"#blockage,#pothholes"
+Kondhwa,footpath,negative,#footpath
+Kondhwa,cleanliness ,negative,"#Garbage,#sewage"
+Kondhwa,road,negative,"#blockage,#pothholes"
+Kondhwa,water,negative,#leakage
+Kondhwa,cleanliness ,negative,"#Garbage,#sewage"
+Kondhwa,water,negative,#leakage
+Kondhwa,cleanliness ,negative,"#Garbage,#sewage"
+Kondhwa,footpath,positive,#footpath
+Kondhwa,footpath,negative,#footpath
+Kondhwa,cleanliness ,positive,"#Garbage,#sewage"
+Kondhwa,road,positive,"#blockage,#pothholes"
+Kondhwa,footpath,negative,#footpath
+Kondhwa,cleanliness ,negative,"#Garbage,#sewage"
+Kondhwa,road,positive,"#blockage,#pothholes"
+Kondhwa,water,negative,#leakage
+Kondhwa,cleanliness ,positive,"#Garbage,#sewage"
+Kondhwa,water,negative,#leakage
+Kondhwa,cleanliness ,positive,"#Garbage,#sewage"
+Kondhwa,footpath,positive,#footpath
+Kondhwa,footpath,negative,#footpath
+Kondhwa,cleanliness ,positive,"#Garbage,#sewage"
+Kondhwa,road,negative,"#blockage,#pothholes"
+Kondhwa,footpath,positive,#footpath
+Kondhwa,cleanliness ,negative,"#Garbage,#sewage"
+Kondhwa,road,positive,"#blockage,#pothholes"
+Kondhwa,water,negative,#leakage
+Yerawada,cleanliness ,positive,"#Garbage,#sewage"
+Yerawada,water,positive,#leakage
+Yerawada,cleanliness ,negative,"#Garbage,#sewage"
+Yerawada,footpath,negative,#footpath
+Yerawada,footpath,positive,#footpath
+Yerawada,cleanliness ,positive,"#Garbage,#sewage"
+Yerawada,road,positive,"#blockage,#pothholes"
+Yerawada,footpath,positive,#footpath
+Yerawada,cleanliness ,negative,"#Garbage,#sewage"
+Yerawada,road,negative,"#blockage,#pothholes"
+Yerawada,water,positive,#leakage
+Yerawada,cleanliness ,negative,"#Garbage,#sewage"
+Yerawada,water,positive,#leakage
+Yerawada,cleanliness ,negative,"#Garbage,#sewage"
+Yerawada,footpath,negative,#footpath
+Yerawada,footpath,negative,#footpath
+Yerawada,cleanliness ,negative,"#Garbage,#sewage"
+Yerawada,road,positive,"#blockage,#pothholes"
+Yerawada,footpath,positive,#footpath
+Yerawada,cleanliness ,positive,"#Garbage,#sewage"
+Yerawada,road,positive,"#blockage,#pothholes"
+Yerawada,water,negative,#leakage
+Yerawada,cleanliness ,negative,"#Garbage,#sewage"
+Yerawada,water,positive,#leakage
+Yerawada,cleanliness ,positive,"#Garbage,#sewage"
+Yerawada,footpath,negative,#footpath
+Yerawada,footpath,positive,#footpath
+Yerawada,cleanliness ,negative,"#Garbage,#sewage"
+Yerawada,road,positive,"#blockage,#pothholes"
+Yerawada,footpath,negative,#footpath
+Yerawada,cleanliness ,positive,"#Garbage,#sewage"
+Yerawada,road,positive,"#blockage,#pothholes"
+Yerawada,water,positive,#leakage
+Yerawada,cleanliness ,negative,"#Garbage,#sewage"
+Yerawada,water,negative,#leakage
+Yerawada,cleanliness ,positive,"#Garbage,#sewage"
+Yerawada,footpath,negative,#footpath
+Yerawada,footpath,positive,#footpath
+Yerawada,cleanliness ,negative,"#Garbage,#sewage"
+Yerawada,road,positive,"#blockage,#pothholes"
+Yerawada,footpath,negative,#footpath
+Yerawada,cleanliness ,positive,"#Garbage,#sewage"
+Yerawada,road,positive,"#blockage,#pothholes"
+Yerawada,water,negative,#leakage
+Yerawada,cleanliness ,negative,"#Garbage,#sewage"
+Yerawada,water,negative,#leakage
+Yerawada,cleanliness ,negative,"#Garbage,#sewage"
+Yerawada,footpath,negative,#footpath
+Yerawada,footpath,negative,#footpath
+Yerawada,cleanliness ,negative,"#Garbage,#sewage"
+Yerawada,road,negative,"#blockage,#pothholes"
+Yerawada,footpath,negative,#footpath
+Yerawada,cleanliness ,positive,"#Garbage,#sewage"
+Yerawada,road,positive,"#blockage,#pothholes"
+Yerawada,water,positive,#leakage
