@@ -1,10 +1,16 @@
 # Data_Visualization
 
+https://github.com/pathanfazal/Data_Visualization/assets/97498401/d283affd-4487-40bb-9170-f23e0f8bce0f
+
 ## Project Link
 Visit the live demo of this project here: [Data Visualization Demo](https://pathanfazal-datavisualization.streamlit.app/)
 
 # Install the required libraries:
 pip install numpy pandas streamlit matplotlib
+
+
+
+
 # Download the dataset:
 Download the "pmc.csv" file and place it in the project directory.
 # Run the Streamlit application:	
